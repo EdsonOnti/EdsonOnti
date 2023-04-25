@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Make-an-a-profile-picture-about-an-amateur-programmer.gif](https://i.postimg.cc/zDT6FVTY/Make-an-a-profile-picture-about-an-amateur-programmer.gif)](https://postimg.cc/3WJtKrLt)
+
 <!--
 **EdsonOnti/EdsonOnti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
